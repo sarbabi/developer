@@ -1,0 +1,1 @@
+Based mainly on Leetcode, the main patterns of algorithmic problems and solutions are explored
